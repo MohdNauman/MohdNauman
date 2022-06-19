@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MohdNauman
 - 👀 I’m interested in ...Data scientist
-- 🌱 I’m currently learning  Data Science
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me ...mohdnauman07@gmail.com
 
